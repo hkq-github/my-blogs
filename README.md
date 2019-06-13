@@ -65,5 +65,7 @@ public class HandleException extends RuntimeException {
 在service层规定code和错误的详细信息detail
 在controller捕获HandleException做相应的处理。
 
-### 
+### 使用实例测试jackson的细节
+
+### spring mvc参数绑定实例
 
